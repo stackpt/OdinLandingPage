@@ -10,8 +10,8 @@ body {
     justify-content: flex-start;
     font-size: 24px;
     color: #F9FAF8;
+    margin-left: 35px;
 }
-
 
 .header {
     background-color: #1F2937;
@@ -24,6 +24,7 @@ body {
     justify-content: flex-end;    
     align-items: flex-start;
     flex-wrap: nowrap;
+    margin-right: 45px;
 }
 
 .sign {
@@ -31,14 +32,14 @@ body {
     width: 100px;
     color: white;
     background-color: #3882F6;
-    padding: 2px;
+    padding: 10px;
     border: 2px;
     justify-content: center;
+    margin-left: 35px;
 }
 
-
-
 .title {
+    margin-left: 35px;
     font-size: 48px;
     font-weight:bolder;
     color: #F9FAF8;
@@ -47,13 +48,37 @@ body {
 .subtitle {
     font-size: 18px;
     color: #E5E7EB;
+    margin-left: 35px;
 }
 
 .mid {
     background-color: white;
 }
 
+.title1 {
+    font-weight:bolder;
+    font-size: 36px;
+    text-align: center;
+}
 
+.mid2 {
+    padding: 105px;
+    background-color: #E5E7EB;
+}
+
+.textmid2 {
+    font-size: 36px;
+    font-style: light italic;
+    color: #1F2937
+}
+
+
+.footer {
+    padding: 25px;
+    text-align: center;
+    background-color: #1F2937;
+    color: white;
+}
 
 a {
    text-decoration: none; 
