@@ -1,0 +1,19 @@
+.header {
+    background-color: #1F2937;
+}
+
+.logotxt {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.title {
+    font-size: 48px;
+    font-weight:bolder;
+    color: #F9FAF8;
+}
+
+.subtitle {
+    font-size: 18px;
+    color: #E5E7EB;
+}
